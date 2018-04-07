@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
 
 const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
@@ -30,4 +31,9 @@ function iLoveTheBeatles (num) {
   do {chant.push("I love the Beatles!"); num++;
     } while (num < 15);
 return chant
+=======
+function theBeatlesPlay(musicians, instruments) {
+  var array = [];
+  for (i=0; )
+>>>>>>> 28558796c52bed4e4515345b68b0ef5b4a942fca
 }
